@@ -56,6 +56,9 @@ docs/_build/
 # PyBuilder
 target/
 
+# Books and Documentation
+data_wrangling_with_python.pdf
+
 *~
 */.*~
 .*/
